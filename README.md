@@ -2,12 +2,12 @@
 
 ## Description
 
-#### created api for blog create, update, show and index and comment create on blog.
+#### created API for blog create, update, show and index and comment create on blog.
 
 
 ## what all things are done
 
-#### created api for blog create, update, show and index and comment create on blog and written test for all apis
+#### created API for blog create, update, show and index and comment create on blog and written test for all apis
 
 
 ## Improvements/what more could be done
