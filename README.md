@@ -4,6 +4,7 @@
 
 #### api for blog create,update, show and index and comment create
 
+
 ## Improvements/what more could be done
 
 1) authentication (JWT)
@@ -17,14 +18,14 @@
 
 ## Prerequisite
 
-###If you want to run on docker
+### If you want to run on docker
 
 1. Docker for Mac/Windows [Docker desktop](https://docs.docker.com/desktop/)
 
 2. Docker engine for linux [Docker Engine](https://docs.docker.com/engine/install/)
 
 
-###If you don't want to run on docker
+### If you don't want to run on docker
 
 1. Install mongo from [here](https://docs.mongodb.com/manual/installation/)
 
