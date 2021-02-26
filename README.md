@@ -33,7 +33,7 @@
 
 ### If you don't want to run on docker
 
-1. Install mongo from [here](https://docs.mongodb.com/manual/installation/)
+1.Install mongo from [here](https://docs.mongodb.com/manual/installation/)
 
 2.change the code from index.ts file line 15 
 
