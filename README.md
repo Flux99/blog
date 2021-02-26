@@ -1,4 +1,4 @@
-# blog
+# Medium clone api
 
 ## Description
 
