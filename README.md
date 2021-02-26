@@ -18,7 +18,10 @@
 
 3) We can cache using Memcache
 
-  4)If we have a big team we could do this project in a microservice architecture(for scaling) by splitting our application into feature services like blogs, comments, and     likes service since its a blogging website, so the database will be Read Heavy, we can further split services for the read-heavy purpose we can split the database into       Master-slave (Master database for write and slave database for reading). we can implement ingress-Nginx for load balancing and caching in the ingress-Nginx is possible, it   can cache the page/response for faster response.
+4)If we have a big team we could do this project in a microservice architecture(for scaling) by splitting our application into feature services like blogs, comments, and
+likes service since its a blogging website, so the database will be Read Heavy, we can further split services for the read-heavy purpose we can split the database into       
+Master-slave (Master database for write and slave database for reading). we can implement ingress-Nginx for load balancing and caching in the ingress-Nginx is possible, it   
+can cache the page/response for faster response.
 
 
 ## Prerequisite
