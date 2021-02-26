@@ -35,6 +35,10 @@
 
 1. Install mongo from [here](https://docs.mongodb.com/manual/installation/)
 
+2.change the code from index.ts file
+
+3.from this `"mongodb://mongo:27017/blog"` to `"mongodb://localhost:27017/blog"` this 
+
 
 ## How to run with docker 
 
